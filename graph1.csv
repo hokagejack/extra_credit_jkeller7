@@ -1,0 +1,6 @@
+Start,End
+A,B
+B,C
+C,D
+START,A
+GOAL,D
